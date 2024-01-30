@@ -2,6 +2,7 @@
 
 [![CN doc](https://img.shields.io/badge/文档-中文版-blue.svg)](README.md)
 [![EN doc](https://img.shields.io/badge/document-English-blue.svg)](README_en.md)
+[![MetaGPT](https://img.shields.io/badge/LessWorkTime-MetaGPT-blue)](https://github.com/geekan/MetaGPT)
 
 - [1. Glossary](#1-Glossary)
 - [2. Objective](#2-Objective)
@@ -17,11 +18,13 @@
     - [6.1.5. Medicine](#615-Medicine)
   - [6.2. Output](#62-Output)
     - [6.2.1. Racquet Sports](#621-Racquet-Sports)
-    - [6.2.2. Walk](#622-Walk)
-    - [6.2.3. Tooth brushing](#623-Tooth-brushing)
-    - [6.2.4. Bath](#624-Bath)
-    - [6.2.5. Housework(for aging males)](#625-Houseworkfor-aging-males)
-    - [6.2.6. Sleep](#626-Sleep)
+    - [6.2.2. High-intensity Exercise](#622-High-intensity-Exercise)
+    - [6.2.3. Walk](#623-Walk)
+    - [6.2.4. Tooth brushing](#624-Tooth-brushing)
+    - [6.2.5. Bath](#625-Bath)
+    - [6.2.6. Housework(for aging males)](#626-Houseworkfor-aging-males)
+    - [6.2.7. Sleep](#627-Sleep)
+    - [6.2.8. Sitting for a long time](#628-Sitting-for-a-long-time)
   - [6.3. Context](#63-Context)
     - [6.3.1. Emotion](#631-Emotion)
     - [6.3.2. Wealth](#632-Wealth)
@@ -37,6 +40,7 @@
 ### 2. Objective
 
 * Live longer
+* Less work time: check [MetaGPT](https://github.com/geekan/MetaGPT/blob/main/README_EN.md)
 
 ### 3. Key Result
 
@@ -233,24 +237,29 @@
   * Three times a week, 45-60 minutes of racquet sports, reduces all-cause mortality by ~47%
   * Badminton, table tennis, tennis, etc. are all racquet sports. But due to the westernized research background, it may refer to tennis more. This implicitly expresses that the whole body exercise is more important. (Translator's Note: pickleball)
 
-##### 6.2.2. Walk
+##### 6.2.2. High-intensity Exercise
+
+* [New Study: 8 minutes of high-intensity exercise per day can reduce all-cause mortality and risk of heart disease](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehac572/6771381)
+  * 15-20 minutes of high-intensity exercise per week reduces all-cause mortality by 16-40%, and by spending 50-57 minutes/week on high-intensity exercise, you can further decrease your all-cause mortality rate. These findings suggest that by accumulating a relatively small amount of high-intensity exercise over a short time during the week, health risks can be reduced.
+
+##### 6.2.3. Walk
 
 * [走路降低全因死亡率超过50%！每天走多少步最合适？《JAMA》子刊超10年研究告诉你答案](http://www.shcell.org/219/3571.html)*(Mandarin, Use Chrome's Translator)*
   * ![走路降低全因死亡率](https://user-images.githubusercontent.com/2707039/163704147-afec1c79-799b-4db8-b547-1a2431d504c9.jpg)
   * Note 1: The average age of participants in this study was 45.2 years old.
   * Note 2: The average number of steps is related to occupation. This study only shows correlation, not causation.
 
-##### 6.2.3. Tooth brushing
+##### 6.2.4. Tooth brushing
 
 * [50万国人研究证实: 不好好刷牙, 致癌！血管疾病也会增多！](https://www.cn-healthcare.com/articlewm/20211209/content-1293760.html)*(Mandarin, Use Chrome's Translator)*
   * People who don't brush their teeth regularly: increased risk of cancer, chronic obstructive pulmonary disease and cirrhosis by 9%, 12% and 25%, respectively, and increased risk of premature death by 25%.
 
-##### 6.2.4. Bath
+##### 6.2.5. Bath
 
 * [定期洗澡降低心血管疾病发作风险](https://www.cn-healthcare.com/article/20200326/content-533379.html)*(Mandarin, Use Chrome's Translator)*
   * A daily hot bath was associated with a 28% lower overall risk of cardiovascular disease, a 26% lower overall risk of stroke, and a 46% lower risk of cerebral hemorrhage compared to taking a bath one to two times a week or no bathing at all. The frequency was not associated with an increased risk of sudden cardiac death.
 
-##### 6.2.5. Housework(for aging males)
+##### 6.2.6. Housework(for aging males)
 
 * [Housework Reduces All-Cause and Cancer Mortality in Chinese Men](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061529)
   * Weekly heavy housework for men after age 72 can reduce the average mortality rate by 29%.
@@ -258,7 +267,7 @@
 	>
     > Light housework: dusting, washing dishes, hand washing clothes, ironing, drying clothes, cooking, shopping for daily necessities, etc.
 
-##### 6.2.6. Sleep
+##### 6.2.7. Sleep
 
 * [超30万亚洲人数据: 每天睡几个小时最有益长寿？](https://med.sina.com/article_detail_103_1_105491.html)*(Mandarin, Use Chrome's Translator)*
   * For men, a sleep duration of ≥10 hours was associated with a 34% increased risk of all-cause mortality compared with a sleep duration of 7 hours.
@@ -268,6 +277,13 @@
 * [颠覆认知！加拿大研究发现: 早睡比熬夜或许更伤身, 几点睡才好？](https://www.thepaper.cn/newsDetail_forward_14461799)*(Mandarin, Use Chrome's Translator)*
   * One conclusion is that bedtime is strongly associated with all-cause mortality, and that going to bed too early and going to bed too late can affect health. But going to bed early was associated with higher all-cause mortality than going to bed late, with an increased risk of death by 43 percent and going to bed late by 15 percent.
   * There are still many limitations in this research study. For example, it does not directly prove the relationship between bedtime and death, only shows the correlation, and the data obtained by using the self-reports of the participants to count sleep time are not objective enough.
+
+##### 6.2.8. Sitting for a long time
+
+* [Scientific Research Report of Chinese Resident Dietary Guidelines (2021)] (https://www.chinanutri.cn/yyjkzxpt/yyjkkpzx/yytsg/zgjm/202103/p02021031148670527.pdf)
+* Sedentary and watching TV time is related to the high risk of death, cardiovascular disease, cancer, and 2 diabetes. It is an independent risk factor.For a long time, every 1 hour is increased every day, the risk of cardiovascular disease increases by 4%, and cancer increases by 1%, and the risk of death increases by 3%.The long -seated time threshold with increased risk of death and CVD death is 6 \ ~ 8H/d, and the time threshold for watching the TV is 3 \ ~ 4H/D.
+* [Guide to the WHO on physical activity and sedentary behavior] (https://apps.who.int/iris/bitstream/handle/10665/337001/978924947- chi.pdf))
+
 
 #### 6.3. Context
 
